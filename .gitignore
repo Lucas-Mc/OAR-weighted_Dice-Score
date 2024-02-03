@@ -1,0 +1,6 @@
+# Virtual environments
+env/
+
+# Do not include data files
+data/*
+!data/README.md
